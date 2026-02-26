@@ -22,9 +22,23 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
-
-
-Want to see what I'm up to? Check out my thoughts, projects, and daily updates on [**X**](https://x.com/shivrajcodez) - where I share the real, unfiltered journey of building cool stuff!
-
+    Want to see what I'm up to? Check out my thoughts, projects, and daily updates on 
+    <a href="https://x.com/shivrajcodez"><b>X</b></a> — where I share the real, unfiltered journey of building cool stuff!
   </div>
+</div>
+
+<br/><br/>
+
+<h2 align="center">☕ Fuel the Builder</h2>
+
+<p align="center">
+  If you like what I build and wanna support the grind, you can fuel the late-night coding sessions 👇
+</p>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/shivrajmohite" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+         alt="Buy Me A Coffee" 
+         height="50">
+  </a>
 </div>
