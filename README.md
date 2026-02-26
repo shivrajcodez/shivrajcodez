@@ -32,11 +32,11 @@
 <h2 align="center">☕ Fuel the Builder</h2>
 
 <p align="center">
-  If you like what I build and wanna support the grind, you can fuel the late-night coding sessions 👇
+  If my work adds value to your journey, you can fuel the next build below
 </p>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/shivrajmohite" target="_blank">
-    <img src="https://img.shields.io/badge/%20Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20Fuel%20My%20Builds-1a1a1a80?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=00000040&color=ffffff15" />
   </a>
 </div>
