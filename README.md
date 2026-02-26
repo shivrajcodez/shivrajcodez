@@ -37,6 +37,6 @@
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/shivrajmohite" target="_blank">
-    <img src="https://img.shields.io/badge/%20Fuel%20My%20Builds-1a1a1a80?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=00000040&color=ffffff15" />
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-ffffff10?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=ffffff10&color=ffffff20" />
   </a>
 </div>
