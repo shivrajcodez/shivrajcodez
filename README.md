@@ -37,14 +37,16 @@
 
 <br/><br/>
 
-<tr>
-  <td colspan="2">
-    <div style="text-align: center;">
-      <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px" style="vertical-align: middle;">
-      <span style="font-size: 20px; font-weight: bold; vertical-align: middle;">Fuel the Builder</span>
-    </div>
-  </td>
-</tr>
+<div align="center">
+  <img 
+    src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" 
+    width="60px" 
+    style="vertical-align: middle;"
+  >
+  <span style="font-size: 22px; font-weight: bold; margin-left: 8px;">
+    Fuel the Builder
+  </span>
+</div>
 
 <p align="center">
   If my work adds value to your journey, you can fuel the next build below
