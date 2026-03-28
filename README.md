@@ -40,10 +40,11 @@
 <div align="center">
   <img 
     src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" 
-    width="60px" 
+    width="70px"
     style="vertical-align: middle;"
   >
-  <span style="font-size: 22px; font-weight: bold; margin-left: 8px;">
+  
+  <span style="font-size: 26px; font-weight: bold; margin-left: 10px; vertical-align: middle;">
     Fuel the Builder
   </span>
 </div>
