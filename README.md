@@ -37,7 +37,13 @@
 
 <br/><br/>
 
-<h2 align="center">☕ Fuel the Builder</h2>
+<tr>
+      <td colspan="2" style="text-align: left;">
+        <img align='left' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px"><h3> align="center">Fuel the Builder</h3>
+      </td>
+    </tr>
+    <tr>
+      <td width="60%" style="vertical-align: top; padding-right: 20px;">
 
 <p align="center">
   If my work adds value to your journey, you can fuel the next build below
