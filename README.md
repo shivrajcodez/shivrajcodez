@@ -39,7 +39,7 @@
 
 <tr>
       <td colspan="2" style="text-align: center;">
-        <img align='left' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px"><h3> Fuel the Builder</h3>
+        <img align='center' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px"><h3> Fuel the Builder</h3>
       </td>
     </tr>
     <tr>
