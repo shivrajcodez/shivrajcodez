@@ -38,15 +38,10 @@
 <br/><br/>
 
 <div align="center">
-  <img 
-    src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" 
-    width="70px"
-    style="vertical-align: middle;"
-  >
-  
-  <b style="font-size: 28px; margin-left: 10px;">
-    Fuel the Builder
-  </b>
+  <h2>
+    <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px">
+    Fuel the Builder 
+  </h2>
 </div>
 
 <p align="center">
