@@ -44,9 +44,9 @@
     style="vertical-align: middle;"
   >
   
-  <span style="font-size: 26px; font-weight: bold; margin-left: 10px; vertical-align: middle;">
+  <b style="font-size: 28px; margin-left: 10px;">
     Fuel the Builder
-  </span>
+  </b>
 </div>
 
 <p align="center">
