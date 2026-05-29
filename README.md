@@ -11,9 +11,9 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/shivrajcodez">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="X" height="40" width="40"/>
-  </a>
+  <a href="https://leetcode.com/u/shivrajcodez/">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40" width="40"/>
+</a>
 </div>
 
 <br/>
