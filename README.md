@@ -37,13 +37,6 @@
 
 <br/><br/>
 
-<div align="center">
-  <h2>
-    <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px">
-    Fuel the Builder 
-  </h2>
-</div>
-
 <p align="center">
   If my work adds value to your journey, you can fuel the next build below
 </p>
