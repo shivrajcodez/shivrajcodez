@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="10.gif" alt="Header" width="100%"/>
+  <img src="3.gif" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -17,9 +17,7 @@
 </div>
 
 <br/>
-
 <h2 align="center">🪼 Beyond Code</h2>
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     Want to see what I'm up to? Check out my thoughts, projects, and daily updates on 
@@ -27,16 +25,11 @@
   </div>
 </div>
 
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<br/><br/>
-
 <p align="center">
   If my work adds value to your journey, you can fuel the next build below
 </p>
