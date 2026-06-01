@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="9.gif" alt="Header" width="100%"/>
+  <img src="thorfinn.gif" alt="Header" width="70%"/>
 </div>
 
 <div align="center">
