@@ -1,3 +1,5 @@
+$${\color{#b29d94}there'sㅤnoㅤsuchㅤthingㅤasㅤperfection!}$$ 
+ <p></p>
 <div align="center">
   <img src="thorfinn.gif" alt="Header" width="70%"/>
 </div>
@@ -17,7 +19,9 @@
 </div>
 
 <br/>
-<h2 align="center">🪼 Beyond Code</h2>
+<h2 align="center">$${\color{#adb4f9}I'mㅤtheㅤexception!}$$
+ <br>
+ <p></p></h2>
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     Want to see what I'm up to? Check out my thoughts, projects, and daily updates on 
