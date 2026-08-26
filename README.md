@@ -34,20 +34,3 @@ $${\color{#b29d94}there'sㅤnoㅤsuchㅤthingㅤasㅤperfection!}$$
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-<p align="center">
-  If my work adds value to your journey, you can fuel the next build below
-</p>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/shivrajmohite" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/⚡_BUY_ME_A_COFFEE-0ff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ff00ff&labelColor=000000&color=00ffff" 
-      alt="Buy Me A Coffee"
-    />
-  </a>
-</div>
-<div align="center">
-  <a href="https://shivrajcodez.atabook.org">
-    <img src="https://img.shields.io/badge/ATABOOK-793736?style=flat-square" alt="ATABOOK">
-  </a>
-</div>
